@@ -9,8 +9,16 @@ public static class GeminiResponseParser
         try
         {
             var obj = JObject.Parse(json);
-            return obj["candidates"]?[0]?["content"]?["parts"]?[0]?["text"]?.ToString()
-                   ?? "No response from Gemini";
+            var parts = obj["candidates"]?[0]?["content"]?["parts"];
+            
+            if (parts != null)
+            {
+                foreach (var part in parts)
+                {
+                    if (part["text"] != null) return part["text"].ToString();
+                }
+            }
+            return "No text found in AI response.";
         }
         catch
         {

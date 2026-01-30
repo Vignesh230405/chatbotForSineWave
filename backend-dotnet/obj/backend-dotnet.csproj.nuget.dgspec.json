@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sreevardhan\\sinewave-ai-app\\backend-dotnet\\backend-dotnet.csproj": {}
+    "C:\\Users\\Vignesh\\OneDrive\\Desktop\\chatBotForSineWave\\backend-dotnet\\backend-dotnet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sreevardhan\\sinewave-ai-app\\backend-dotnet\\backend-dotnet.csproj": {
+    "C:\\Users\\Vignesh\\OneDrive\\Desktop\\chatBotForSineWave\\backend-dotnet\\backend-dotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sreevardhan\\sinewave-ai-app\\backend-dotnet\\backend-dotnet.csproj",
+        "projectUniqueName": "C:\\Users\\Vignesh\\OneDrive\\Desktop\\chatBotForSineWave\\backend-dotnet\\backend-dotnet.csproj",
         "projectName": "backend-dotnet",
-        "projectPath": "C:\\Users\\Sreevardhan\\sinewave-ai-app\\backend-dotnet\\backend-dotnet.csproj",
-        "packagesPath": "C:\\Users\\Sreevardhan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sreevardhan\\sinewave-ai-app\\backend-dotnet\\obj\\",
+        "projectPath": "C:\\Users\\Vignesh\\OneDrive\\Desktop\\chatBotForSineWave\\backend-dotnet\\backend-dotnet.csproj",
+        "packagesPath": "C:\\Users\\Vignesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vignesh\\OneDrive\\Desktop\\chatBotForSineWave\\backend-dotnet\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Sreevardhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Vignesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

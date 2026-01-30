@@ -2,6 +2,7 @@ using backend_dotnet.Data;
 using backend_dotnet.Services;   // ✅ REQUIRED for GeminiService & MongoService
 using Microsoft.EntityFrameworkCore;
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 // 🔹 Services
