@@ -69,3 +69,6 @@ public class SineController : ControllerBase
         return Ok(cleanAnalysis);
     }
 }
+
+
+
